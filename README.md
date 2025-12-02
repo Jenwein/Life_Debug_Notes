@@ -14,7 +14,7 @@ Life Knowledge Base
 积累经验，为未来的自己提供参考
 
 构建一个长期可维护的知识体系
-
+```shell
 📂 目录结构
 /
 ├── learning/        # 学习方法、技能提升、学科知识
@@ -24,7 +24,7 @@ Life Knowledge Base
 ├── philosophy/      # 思维方式、价值观、决策原则
 ├── problems/        # 按时间记录的具体问题与反思
 └── templates/       # 标准化记录模板
-
+```
 
 各目录会随着成长不断扩展与调整。
 
